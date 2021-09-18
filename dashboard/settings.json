@@ -1,0 +1,13 @@
+{
+    "website" : {
+      "domain": "https://supermusicv2.gregetmaxs.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://supermusicv2.gregetmaxs.repl.co/callback",
+        "clientID": "883691211020443649",
+        "secret": ""
+    }
+  }
